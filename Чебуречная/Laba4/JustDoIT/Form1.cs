@@ -16,5 +16,13 @@ namespace JustDoIT
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            foreach (DataGridViewRow row in Mas.Rows)
+            {
+                string[] temp = row.Cells.ToString().Split(',');
+            }
+        }
     }
 }
