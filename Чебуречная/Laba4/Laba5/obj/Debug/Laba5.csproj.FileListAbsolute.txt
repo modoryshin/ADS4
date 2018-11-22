@@ -1,0 +1,10 @@
+C:\Users\Администратор.BERGESS\source\repos\ADS4\Чебуречная\Laba4\Laba5\bin\Debug\Laba5.exe.config
+C:\Users\Администратор.BERGESS\source\repos\ADS4\Чебуречная\Laba4\Laba5\bin\Debug\Laba5.exe
+C:\Users\Администратор.BERGESS\source\repos\ADS4\Чебуречная\Laba4\Laba5\bin\Debug\Laba5.pdb
+C:\Users\Администратор.BERGESS\source\repos\ADS4\Чебуречная\Laba4\Laba5\obj\Debug\Laba5.csprojAssemblyReference.cache
+C:\Users\Администратор.BERGESS\source\repos\ADS4\Чебуречная\Laba4\Laba5\obj\Debug\Laba5.Form1.resources
+C:\Users\Администратор.BERGESS\source\repos\ADS4\Чебуречная\Laba4\Laba5\obj\Debug\Laba5.Properties.Resources.resources
+C:\Users\Администратор.BERGESS\source\repos\ADS4\Чебуречная\Laba4\Laba5\obj\Debug\Laba5.csproj.GenerateResource.cache
+C:\Users\Администратор.BERGESS\source\repos\ADS4\Чебуречная\Laba4\Laba5\obj\Debug\Laba5.csproj.CoreCompileInputs.cache
+C:\Users\Администратор.BERGESS\source\repos\ADS4\Чебуречная\Laba4\Laba5\obj\Debug\Laba5.exe
+C:\Users\Администратор.BERGESS\source\repos\ADS4\Чебуречная\Laba4\Laba5\obj\Debug\Laba5.pdb
